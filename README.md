@@ -8,10 +8,7 @@ React Contact Form is an application that was built to serve as a template to th
 
 When a user naviagtes to the page, they are brought to a basic contact form that was built with `Bootstrap`. Input field data, form validation, and reset functionality is handled by `react-hook-form`. Once a user submits a valid form, `EmailJS` is used to send out an email of the completed contact form.
 
-### Deployed App
 
-
-![App Screenshot](./public/contact-form.png)
 
 ---
 
